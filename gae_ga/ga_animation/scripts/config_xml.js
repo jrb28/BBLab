@@ -2,8 +2,8 @@ var TSC = TSC || {};
 
 TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/">\
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">\
-      <rdf:Description dc:date="2020-10-14 01:33:46 PM" dc:source="Camtasia,9.1.4,enu" dc:title="ga_animation" tscDM:firstFrame="ga_animation_First_Frame.png" tscDM:originId="05627E69-03E8-4309-813B-E483EB37BF54" tscDM:project="ga_animation">\
-         <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="66666"/>\
+      <rdf:Description dc:date="2020-10-14 04:11:17 PM" dc:source="Camtasia,9.1.4,enu" dc:title="ga_animation" tscDM:firstFrame="ga_animation_First_Frame.png" tscDM:originId="05627E69-03E8-4309-813B-E483EB37BF54" tscDM:project="ga_animation">\
+         <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="66700"/>\
          <xmpDM:videoFrameSize stDim:unit="pixel" stDim:h="320" stDim:w="480"/>\
          <tsc:langName>\
             <rdf:Bag>\
