@@ -1,19 +1,22 @@
 ---
 layout: default
-title: Welcome to BB Lab!
+title: Welcome to the BB-Research Website!
 ---
 
 ![Under construction](under_construction.jpg)
 
 **This web site is under construction!!!**
 
-This site disseminates the research of James R. Bradley and A. Paul Blossom, 
-including articles and ancillary materials.  Our research is currently focused 
-on adversarial examples for neural networks, including methods for generating 
-adversarial examples and the robustness of neural networks to adversarial examples
+This site is a repository for the research by James R. Bradley and A. Paul Blossom.  In particular,
+it provides ancillary content that could not be included in the articles.  Our research contained
+herein is focused on generating adversarial examples for neural networks and using those adversarial 
+examples for:
 
-The materials for each paper are linked from different home pages, which may be 
-accessed using the links below:
+- Measuring neural network robustness
+- Adversarial training
+- Advancing fairness and equity of the application of neural networks by considering the human persepctive
+
+Each paper has its own landing page, which contains links to the associated content:
 
 1. [Generating Adversarial Examples for Visual Similarity, Counterfactuals, and the Measurement of Robustness](xxx)
 
