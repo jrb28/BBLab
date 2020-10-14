@@ -6,7 +6,7 @@
     - [FF network](./figures/FF100.jpg)
 	- [CNN network](./figures/CNN100.jpg)
 	- [Madry et al. network](./figures/Madry100.jpg)
-  - Comparison of MNIST images and adversarial examples for the Madry Method and the genetic algorithm with the MAD_Norm fitness function
+  - [Comparison of MNIST images and adversarial examples for the Madry Method and the genetic algorithm with the MAD_Norm fitness function](./figures/madry-pgd-compare100.jpg)
 - Animations of the adversarial example generations processes
   - Madry et al.
   - [Genetic algorithm with MAD_Norm fitness function](./ga_animation/ga_animation.html)
