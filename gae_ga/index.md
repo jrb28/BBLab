@@ -6,4 +6,4 @@
   - Comparison of MNIST images and adversarial examples for the Madry Method and the genetic algorithm with the MAD_Norm fitness function
 - Animations of the adversarial example generations processes
   - Madry et al.
-  - Genetic algorithm with MAD_Norm fitness function
+  - [Genetic algorithm with MAD_Norm fitness function](./ga_animation/ga_animation.html)
